@@ -49,3 +49,25 @@
 
 from file import *
 
+# counter = 0
+# for j in range(len(dn2_3dn)):
+#     valid = 0
+#     for i in ac1_ac2_ac4:
+#         print(j, len(dn2_3dn ))
+#         if i[1][0] == str(dn2_3dn[j][0])[0] and i[1][1] == str(dn2_3dn[j][1])[0]:
+#             valid = 1
+#     if valid == 0:
+#         dn2_3dn[j] = []
+#         counter += 1
+
+# for i in range(counter):
+#     dn2_3dn.remove([])
+
+# print(dn2_3dn)
+
+for ac1_2_4 in ac1_ac2_ac4:
+    for dn2_3 in dn2_3dn:
+        for ac_13_dn7_1 in ac13_7dn_1dn_or_14ac_9dn_5dn:
+            for ac14_dn9_5 in ac13_7dn_1dn_or_14ac_9dn_5dn:
+                for ac11_dn10_12 in ac11_dn10_dn12:
+                    pass
